@@ -1,1 +1,4 @@
-Change from main
+<<<<<<< HEAD
+Mensaje desde la rama main
+======
+>>>>>>> feature-greeting
